@@ -1,4 +1,4 @@
-# Hi, I'm John Doe 👋
+# Hi, I'm Gozy Dev 👋
 
 I'm a passionate Junior Full‑Stack Developer focused on building dynamic, responsive web applications. I specialize in front‑end development with HTML, CSS, JavaScript, and TypeScript, and I'm currently expanding my skills with React fundamentals, Next.js, Prisma, PostgreSQL, and Tailwind CSS.
 
