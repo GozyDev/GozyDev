@@ -44,7 +44,7 @@ I’m available for freelance, contract, or full-time roles in web development.
 **Email:** [networkinggozy@gmail.com](mailto:networkinggozy@gmail.com)  
 **GitHub:** [github.com/GozyDev](https://github.com/GozyDev)  
 **Portfolio:** [gozydevportfolio.vercel.app](https://gozydevportfolio.vercel.app)  
-**LinkedIn:** *(drop your link)*  
-**Twitter:** *(drop your link)*  
+**LinkedIn:** [https://x.com/Gozy_Dev](https://x.com/Gozy_Dev)  
+**Twitter:** [https://www.linkedin.com/in/henrygozy/](https://www.linkedin.com/in/henrygozy/)  
 
 ---
