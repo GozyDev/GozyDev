@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer | Building Scalable & Modern Web Applications**  
 
-Hi there 👋, I'm Henry — a self-taught developer passionate about building functional and user-friendly applications. I work across the stack, from crafting responsive UIs to developing secure and efficient backends. I enjoy learning new technologies and delivering projects that actually solve problems.  
+Hi there 👋, I'm Henry a self-taught developer passionate about building functional and user-friendly applications. I work across the stack, from crafting responsive UIs to developing secure and efficient backends. I enjoy learning new technologies and delivering projects that actually solve problems.  
 
 ---
 
