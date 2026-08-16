@@ -1,7 +1,7 @@
 # Henry Maduekwe
 
 Full-stack developer, 5 years shipping production web apps in TypeScript.
-I own products end to end — database schema, APIs, payments, auth, and the frontend.
+I own products end to end database schema, APIs, payments, auth, and the frontend.
 
 **Stack:** TypeScript · Next.js · React · Node.js · PostgreSQL · Prisma · Supabase · Tailwind · Stripe
 ---
